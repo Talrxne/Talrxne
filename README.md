@@ -1,4 +1,4 @@
-# Olá, dev, meu nome é Tairone de Araújo, tudo certo??👋
+# Olá, dev, meu nome é Tairone de Araújo, tudo certo??☕
 
 ## Bem vindo ao meu perfil do GitHub!! 🚀
 
