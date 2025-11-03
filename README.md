@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil do GitHub!! 🚀
 
-- 💼 Atualmente Estou desempregado, a procura de oportunidades na área de Desenv. WEB. 💼
+- 💼 Atualmente a procura de oportunidades na área de Desenv. WEB. 💼
 - 📖 Estudo na Faculdade Estácio, no curso de Sistemas da Informação. 📖 
 - 🚀 Estou em  transição de carreira, já atuei como técnico de informática mas estou sempre buscando conhecimento e oportunidades para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end. 🚀
 - 📝 Atualmente estou aprendendo, Javascript , HTML E CSS. 📝
